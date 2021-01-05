@@ -10,4 +10,4 @@ Links to get started with Anaconda Spyder
 
 ## Want to help?
 If you would like to contribute to the development of this repository or have suggestions for other topics, please contact
-Tom Fuller tom.fuller@chbe.gatech.edu
+Tom Fuller tom.fuller@chbe.gatech.edu.  In the readme file for each folder, known issues or future features are identified.
