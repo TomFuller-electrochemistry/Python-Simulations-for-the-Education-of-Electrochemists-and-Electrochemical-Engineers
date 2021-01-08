@@ -11,7 +11,7 @@ To make the interactive examples work properly, go to Tools>Preferences>IPython 
 
 ## Accessing examples
 
-To access the examples, visit the [github repo](https://github.com/TomFuller-electrochemistry). If the repo is private, please contact Dr. Fuller. You will likely need to setup a github account to access the code if the repo is private [to setup repo](https://github.com/). 
+To access the examples, visit the [github repo](https://github.com/TomFuller-electrochemistry). If the repo is private, please contact Dr. Fuller, tom.fuller@chbe.gatech.edu . You will likely need to setup a github account to access the code if the repo is private [to setup repo](https://github.com/). 
 
 Once the repo is available, the examples can be directly copied and saved locally as a '.py' file.
 
