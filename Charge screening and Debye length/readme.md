@@ -6,6 +6,6 @@ Electric-field or charge screening is the damping of an electric field caused by
 ![Charge screening](https://user-images.githubusercontent.com/75796436/104048316-06cb9a80-51b1-11eb-93b9-f40d253b98be.png)
 
 ## Known Issues
-1. None.
+1. None :smiley:
 
 
