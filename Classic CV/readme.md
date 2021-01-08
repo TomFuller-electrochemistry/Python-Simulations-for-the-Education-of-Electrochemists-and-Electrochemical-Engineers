@@ -8,4 +8,5 @@ CV for infinite kinetics, anodic sweep from rest potential to upper potential li
 ## Known Issues
 1. The plotting can be stopped by a mouse click and restarted.  However, the animation continues it is just the plotting that is paused. :hushed:
 2. This model assumes infinite kinetics, a version that allows both infinite and finite kinetics is desired.
+3. This model assumes A and B have the same diffusion coefficient.
 
