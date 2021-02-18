@@ -1,4 +1,4 @@
-# Kinetic expressions and overpotential in full cells
+# Kinetic expressions and overpotentials in cells, Figure 3.10
 
 Ok, so you'll probably notice this isn't quite a full cell because the postive electrode isn't included.  There are additional versions in the works that include other electrode as well as allow different reference electrodes to be used.  This simulation reproduces Figure 3.10 from the text.
 
